@@ -1,2 +1,2 @@
 # HYPERBLOG
-Un blog increíble para el curso de platos
+Un blog increíble para el curso de platzi
